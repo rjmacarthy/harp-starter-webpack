@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./public/js/main.js?0f93"],"names":[],"mappings":";;;;;;;AAAA,KAAI,IAAI,CAAJ;;AAEJ,OAAM,CAAN,E","file":"0.fd550d6d1f36d7d08597.hot-update.js","sourcesContent":["let m = 1;\n\nalert(m);\n\n\n/** WEBPACK FOOTER **\n ** ./public/js/main.js\n **/"],"sourceRoot":""}
